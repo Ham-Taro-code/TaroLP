@@ -53,7 +53,7 @@ function App() {
         <section id="about" className="py-20 bg-white">
           <div className="container mx-auto px-6 flex flex-col md:flex-row items-center">
             <div className="md:w-1/2 mb-8 md:mb-0">
-              <img src="../public/images/profile.jpg" alt="TaroDeveloper" className="rounded-full w-64 h-64 object-cover mx-auto" />
+              <img src="public/images/profile.jpg" alt="TaroDeveloper" className="rounded-full w-64 h-64 object-cover mx-auto" />
             </div>
             <div className="md:w-1/2 md:pl-12">
               <h3 className="text-3xl font-bold mb-4">About Me</h3>
